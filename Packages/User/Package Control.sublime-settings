@@ -6,7 +6,9 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"CMake",
 		"GitGutter",
+		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements"
 	]
